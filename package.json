@@ -1,0 +1,16 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "index.js",
+    "dev": "index.js"
+  },
+  "author": "Tharaka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
